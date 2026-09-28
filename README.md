@@ -27,7 +27,7 @@ You can find the report in the `report/` directory.
 
 ## Why I made this
 
-I wanted to understand what happens inside a language model beyond simply using an API or chatbot.
+I wanted to understand what really happens inside a language model beyond simply using an API or chatbot.
 
 The goal was to study the underlying ideas, read the original research behind them, and organize what I learned into a technical document that I could refer back to later.
 
